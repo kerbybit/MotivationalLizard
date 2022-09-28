@@ -1,0 +1,7 @@
+{
+    "name":"MotivationalLizard",
+    "description":"/motivate",
+    "author":"kerbybit",
+    "version":"1.0.1",
+    "entry":"index.js"
+}
